@@ -1,0 +1,1 @@
+let numRan= Math.trunc(Math.random()*100);
